@@ -1,0 +1,2 @@
+{"level":"info","ts":1634459094.3401403,"caller":"zap_file_test/main.go:15","msg":"failed to fetch URL","url":"https://imooc.com","attempt":3}
+{"level":"info","ts":1634459239.8891308,"caller":"zap_file_test/main.go:15","msg":"failed to fetch URL","url":"https://imooc.com","attempt":3}
